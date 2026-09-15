@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/206870729?v=4" width="96" height="96" alt="Foto de Thiago Almeida" />
+<a href="https://tskdigital.pt"><img src="./assets/tsk-digital.png" width="96" alt="TSK Digital" /></a>
 
 <h1>Thiago Almeida</h1>
 
@@ -30,7 +30,7 @@ O meu percurso começou na construção civil e nas telecomunicações. São cer
 | Desenvolvimento web | Automação & IA | Engenharia & CAD |
 | :--- | :--- | :--- |
 | Websites responsivos e aplicações para negócios. | Agentes de atendimento e integração de processos. | Ferramentas que ligam desenhos a medições e quantitativos. |
-| React · Next.js · TypeScript | n8n · APIs · Node.js | C# · .NET · AutoCAD |
+| Next.js · TypeScript | n8n · APIs · Node.js | C# · Python · AutoCAD |
 
 ### Projeto em destaque
 
@@ -65,16 +65,17 @@ O meu percurso começou na construção civil e nas telecomunicações. São cer
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
 </p>
 
-**Também no meu trabalho:** Tailwind CSS, JavaScript, Redis, Linux, Vercel, Python, C# e .NET.
+**Também no meu trabalho:** Tailwind CSS, JavaScript, Redis, Linux, Vercel e .NET.
 
 <details>
 <summary><strong>Um pouco mais sobre o meu percurso</strong></summary>
@@ -96,7 +97,7 @@ I'm **Thiago Almeida**, a developer based in Portugal and co-founder of **TSK Di
 
 My background includes around 18 years in civil construction and telecom design, with hands-on experience in AutoCAD and construction preparation. I bring that practical perspective to software development, including **TSK TakeOff**, a C# plugin connecting CAD measurements with Excel quantity reports.
 
-**Main tools:** TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, n8n, Docker, C# and .NET.
+**Main tools:** TypeScript, Next.js, Node.js, Supabase, PostgreSQL, n8n, Docker, C#, Python and .NET.
 
 </details>
 
