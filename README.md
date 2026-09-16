@@ -30,7 +30,7 @@ Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de exper
 | :---: | :---: | :---: |
 | Next.js · TypeScript | n8n · APIs · Node.js | C# · Python · AutoCAD |
 
-### Projeto em destaque
+### Projetos em destaque
 
 <table width="100%">
 <tr>
@@ -51,6 +51,30 @@ Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de exper
 <p><sub>C# · .NET · AutoCAD API · ClosedXML · xUnit</sub></p>
 
 <p><a href="https://github.com/tsantos86/tskpluginmedicao">Ver código e documentação →</a></p>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td>
+
+<sub>PYTHON / MEDIÇÕES DE ARQUITETURA</sub>
+
+<h3>TSK Engine Auto</h3>
+
+<p><strong>De ficheiros DXF a quantitativos organizados em Excel.</strong></p>
+
+<ul>
+  <li>Processamento de desenhos de arquitetura para apoiar medições e orçamentação.</li>
+  <li>Exportação para Excel e relatórios de conferência.</li>
+  <li>Sinalização de resultados que precisam de revisão.</li>
+</ul>
+
+<p><sub>Python · ezdxf · Shapely · pandas · openpyxl · Matplotlib</sub></p>
+
+<p><strong>Em desenvolvimento</strong> · Código em repositório privado.</p>
 
 </td>
 </tr>
@@ -96,6 +120,8 @@ O **TSK TakeOff** inclui um [projeto de testes xUnit](https://github.com/tsantos
 I'm **Thiago Almeida**, a developer based in Portugal and co-founder of **TSK Digital**. I build websites, business applications and workflow automations.
 
 My background includes around 18 years in civil construction and telecom design, with hands-on experience in AutoCAD and construction preparation. I bring that practical perspective to software development, including **[TSK TakeOff](https://github.com/tsantos86/tskpluginmedicao)**, a C# plugin connecting CAD measurements with Excel quantity reports.
+
+I also develop **TSK Engine Auto**, a Python engine for processing architectural DXF files and producing quantity reports in Excel, with outputs for review. The project is under development and its source code is private.
 
 **Main tools:** TypeScript, Next.js, Node.js, Supabase, PostgreSQL, n8n, Docker, C# and Python.
 
