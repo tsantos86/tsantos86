@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://tskdigital.pt"><img src="./assets/tsk-digital.png" width="96" alt="TSK Digital" /></a>
+<a href="https://tskdigital.pt"><img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tsk-digital.png" width="96" alt="TSK Digital" /></a>
 
 <h1 align="center">Thiago Almeida</h1>
 
@@ -11,9 +11,9 @@
 <p><sub>Portugal / Cofundador da TSK Digital</sub></p>
 
 <p>
-  <a href="https://tskdigital.pt"><img src="./assets/button-tsk.svg" height="38" alt="Visitar TSK Digital" /></a>
+  <a href="https://tskdigital.pt"><img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/button-tsk.svg" height="38" alt="Visitar TSK Digital" /></a>
   &nbsp;
-  <a href="https://github.com/tsantos86/tskpluginmedicao"><img src="./assets/button-project.svg" height="38" alt="Explorar projeto" /></a>
+  <a href="https://github.com/tsantos86/tskpluginmedicao"><img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/button-project.svg" height="38" alt="Explorar projeto" /></a>
 </p>
 
 </div>
@@ -59,16 +59,16 @@ Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de exper
 ### Ferramentas de trabalho
 
 <p>
-  <img src="./assets/tech-typescript.svg" height="44" alt="TypeScript" />
-  <img src="./assets/tech-nextjs.svg" height="44" alt="Next.js" />
-  <img src="./assets/tech-nodejs.svg" height="44" alt="Node.js" />
-  <img src="./assets/tech-supabase.svg" height="44" alt="Supabase" />
-  <img src="./assets/tech-postgresql.svg" height="44" alt="PostgreSQL" />
-  <img src="./assets/tech-n8n.svg" height="44" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-typescript.svg" height="44" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-nextjs.svg" height="44" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-nodejs.svg" height="44" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-supabase.svg" height="44" alt="Supabase" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-postgresql.svg" height="44" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-n8n.svg" height="44" alt="n8n" />
   <br />
-  <img src="./assets/tech-docker.svg" height="44" alt="Docker" />
-  <img src="./assets/tech-csharp.svg" height="44" alt="C#" />
-  <img src="./assets/tech-python.svg" height="44" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-docker.svg" height="44" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-csharp.svg" height="44" alt="C#" />
+  <img src="https://raw.githubusercontent.com/tsantos86/tsantos86/main/assets/tech-python.svg" height="44" alt="Python" />
 </p>
 
 <details>
