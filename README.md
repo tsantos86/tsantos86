@@ -4,9 +4,9 @@
 
 <h1 align="center">Thiago Almeida</h1>
 
-<p><strong>Full Stack Developer · Automação &amp; IA</strong></p>
+<p><strong>Preparador de Obra · Automação na Construção Civil · Desenvolvimento de Software</strong></p>
 
-<p>Websites, aplicações e ferramentas que resolvem problemas do dia a dia.</p>
+<p>Desenvolvo ferramentas que ligam projetos, medições e dados, além de aplicações e automações para empresas.</p>
 
 <p><sub>Portugal / Cofundador da TSK Digital</sub></p>
 
@@ -22,13 +22,15 @@
 
 ### Experiência prática. Software com propósito.
 
-Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de experiência em projetos**, AutoCAD e preparação de obra.
+Trago cerca de **18 anos de experiência em projetos de construção civil e telecomunicações**, com forte ligação ao AutoCAD e à preparação de obra. Hoje, aplico esse conhecimento ao desenvolvimento de ferramentas em **C#, .NET e Python** para apoiar medições, organizar dados e automatizar processos. Sou também cofundador da **TSK Digital**, onde desenvolvo soluções web e agentes de atendimento com IA.
 
 ### Onde aplico tecnologia
 
-| Desenvolvimento web | Automação & IA | Engenharia & CAD |
-| :---: | :---: | :---: |
-| Next.js · TypeScript | n8n · APIs · Node.js | C# · Python · AutoCAD |
+| Área | Aplicação | Tecnologias |
+| :--- | :--- | :--- |
+| **BIM & CAD** | Projetos, preparação de obra e medições | Revit · AutoCAD |
+| **Automação & IA** | Scripts, tratamento de dados e integração de processos | C# · .NET · Python · n8n · APIs |
+| **Desenvolvimento Web** | Websites, aplicações e painéis de gestão | Next.js · TypeScript · Node.js · Supabase |
 
 ### Projetos em destaque
 
@@ -40,7 +42,7 @@ Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de exper
 
 <h3><a href="https://github.com/tsantos86/tskpluginmedicao">TSK TakeOff</a></h3>
 
-<p><strong>Do desenho no AutoCAD ao mapa de medições em Excel.</strong></p>
+<p><strong>Medições no AutoCAD com organização e exportação para Excel.</strong></p>
 
 <ul>
   <li>Medições organizadas no DWG.</li>
@@ -64,7 +66,7 @@ Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de exper
 
 <h3>TSK Engine Auto</h3>
 
-<p><strong>De ficheiros DXF a quantitativos organizados em Excel.</strong></p>
+<p><strong>Processamento de DXF exportados do Revit para gerar quantitativos e relatórios de conferência.</strong></p>
 
 <ul>
   <li>Processamento de desenhos de arquitetura para apoiar medições e orçamentação.</li>
@@ -100,9 +102,7 @@ Desenvolvedor e cofundador da **TSK Digital**. Trago cerca de **18 anos de exper
 
 <br />
 
-Sou Thiago Almeida, desenvolvedor e cofundador da TSK Digital, em Portugal. O meu percurso começou na construção civil e nas telecomunicações, com uma forte ligação ao AutoCAD e à preparação de obra.
-
-Essa experiência orienta a forma como desenvolvo: compreender o processo, organizar a informação e construir ferramentas úteis para quem as utiliza.
+A preparação de obra orienta a forma como desenvolvo: compreender o processo, organizar a informação e construir ferramentas úteis para quem as utiliza. Ligo a experiência em projetos ao desenvolvimento de software para apoiar o trabalho entre o desenho, as medições e a análise de dados.
 
 Na **TSK Digital**, trabalho em websites, aplicações, integrações e agentes de atendimento com inteligência artificial. Parte do trabalho comercial é desenvolvida em repositórios privados.
 
@@ -117,13 +117,15 @@ O **TSK TakeOff** inclui um [projeto de testes xUnit](https://github.com/tsantos
 
 <br />
 
-I'm **Thiago Almeida**, a developer based in Portugal and co-founder of **TSK Digital**. I build websites, business applications and workflow automations.
+I'm **Thiago Almeida**, based in Portugal, working in **construction preparation, construction process automation and software development**. I'm also co-founder of **TSK Digital**, where I build web applications, workflow automations and AI-powered customer service solutions.
 
 My background includes around 18 years in civil construction and telecom design, with hands-on experience in AutoCAD and construction preparation. I bring that practical perspective to software development, including **[TSK TakeOff](https://github.com/tsantos86/tskpluginmedicao)**, a C# plugin connecting CAD measurements with Excel quantity reports.
 
-I also develop **TSK Engine Auto**, a Python engine for processing architectural DXF files and producing quantity reports in Excel, with outputs for review. The project is under development and its source code is private.
+I also develop **TSK Engine Auto**, a Python engine that processes **DXF files exported from Revit** to produce quantity reports and review outputs. The project is under development and its source code is private.
 
-**Main tools:** TypeScript, Next.js, Node.js, Supabase, PostgreSQL, n8n, Docker, C# and Python.
+**Focus areas:** BIM & CAD, automation & AI, and web development.
+
+**Main tools:** Revit, AutoCAD, C#, .NET, Python, n8n, TypeScript, Next.js, Node.js, Supabase, PostgreSQL and Docker.
 
 </details>
 
